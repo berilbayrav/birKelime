@@ -1,0 +1,2 @@
+# birKelime
+ Yazılım Yapımı Ödevi
